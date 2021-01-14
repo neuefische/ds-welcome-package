@@ -33,5 +33,5 @@ Some of the material is at a very basic level, where applicable we have extra re
 
 ## The moment of truth!
 
-Workign in data science means collecting data and measuring and evaluation. Why not do the same with ourselves.
+Working in data science means also evaluating performance. Why not do the same with ourselves.
 In order to check your current knowledge on programming and statistics take this [quiz](https://docs.google.com/forms/u/1/d/19KeSS1jeObxPB2-XhGBnbyg9wyb-aNaqIeBmhADVCd0/edit)
