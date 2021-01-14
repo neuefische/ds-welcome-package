@@ -8,7 +8,7 @@ If you are not familiar with Google Colab, please start with [this notebook](Int
 We are covering two aspects: python programming and statistics (also with python). In case you are not familiar with the following concepts please following the codealongs and reading material.
 
 ## The fundamentals of python programming you should know:
-- [Variables and types](1_Python_Variables_Types.ipynb)
+- [Variables and types](programming/1_Python_Variables_Types.ipynb)
 - If/then/else and for loops
 - Dictionaries, Lists, Arrays
 - How to write a function, function arguments and so on
