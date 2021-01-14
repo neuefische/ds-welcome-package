@@ -13,7 +13,7 @@ We are covering two aspects: python programming and statistics (also with python
 - Dictionaries, Lists, Arrays
 - How to write a function, function arguments and so on
 - [Object-oriented programming](programming/5_Intro_to_OOP.ipynb)
-- Read/write toa and from files
+- [Read/write toa and from files](programming/6_Read_Write_Files.ipynb)
   
 Do not forget, programming is a skill that gets better with practice, if this is your first time with python, you might need repetition.
 
