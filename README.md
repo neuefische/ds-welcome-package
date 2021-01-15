@@ -18,15 +18,10 @@ We are covering two aspects: python programming and statistics (also with python
 Do not forget, programming is a skill that gets better with practice, if this is your first time with python, you might need repetition.
 
 ## The basic statistics expectations we have of you are:
-- Random variables,
-- Mean and medians
-- Variance, autocovariance and autocorrelation
-- Variance of a sum of random variables
-- Probability, conditional probability and Bayes’ Theorem
-- Statistical independence, law of total probability and chain rule of probability
-- Probability distribution and density function
-- Hypothesis testing 
-- Law of large numbers
+- [Random variables, Mean and medians, Variance and Standard deviation](statistics/1-Random-variables-Mean-Median-Variance.ipynb)
+- [Probability, Bayes’ Theorem, Probability distribution](statistics/2-Probability.ipynb)
+- [Hypothesis testing](statistics/3-Hypothesis-testing.ipynb) 
+- [Law of large numbers](statistics/4-Law-of-large-Numbers.ipynb)
 
 Some of the material is at a very basic level, where applicable we have extra reading material, you should only go to through the extras once you are done with the main material.
 
