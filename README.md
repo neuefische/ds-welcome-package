@@ -26,7 +26,6 @@ Do not forget, programming is a skill that gets better with practice, if this is
 Some of the material is at a very basic level, where applicable we have extra reading material, you should only go to through the extras once you are done with the main material.
 
 
-## The moment of truth!
-
-Working in data science means also evaluating performance. Why not do the same with ourselves.
-In order to check your current knowledge on programming and statistics take this [quiz](https://forms.gle/9g2A9hDjZ48o1hzh8). This is also helping us with getting an understanding of things to focus on more during the bootcamp, so do not worry if you don't get it right this time.
+Thank you for going through the material! 
+Hope you had fun. 
+If you have any feedback or improvement suggestions please raise an issue on GitHub.
