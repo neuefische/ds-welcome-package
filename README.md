@@ -10,8 +10,8 @@ We are covering two aspects: python programming and statistics (also with python
 ## The fundamentals of python programming you should know:
 - [Variables and types](programming/1_Python_Variables_Types.ipynb)
 - [If/then/else and for loops](programming/2_Python_If_Else_Loops.ipynb)
-- [Dictionaries, Lists, Arrays](3_Python_Lists_Sets_Dictionaries.ipynb)
-- [How to write a function, function arguments and so on](programming/4_Functions.ipynb)
+- [Dictionaries, Lists, Arrays](programming/3_Python_Lists_Sets_Dictionaries.ipynb)
+- [How to write a function, function arguments and so on](programming/4_Python_Functions.ipynb)
 - [Object-oriented programming](programming/5_Intro_to_OOP.ipynb)
 - [Read/write toa and from files](programming/6_Read_Write_Files.ipynb)
   
