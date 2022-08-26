@@ -1,8 +1,6 @@
 # ds-welcome-package
 In order to have a common starting point it is important that you know both some basic statistics and some fundamentals about python programming. In this repository we will cover the general concepts that you should be familiar with before the start of the bootcamp. You do not need to install anything on your computer in order to work with the metarial, all material is browser based and we will be using [Google Colaboratory](https://colab.research.google.com/).
 
-[<img src="preparation.png">](preparation.pdf)
-
 ![Check out the Fundamentals](preparation.png)
 
 In order to access the links check out the [pdf version](preparation.pdf).
