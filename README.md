@@ -3,6 +3,9 @@ In order to have a common starting point it is important that you know both some
 
 <object data="preparation.pdf" width="100%" type='application/pdf'></object>
 <embed src="preparation.pdf" type="application/pdf">
+<image src="preparation.pdf"/>
+
+![some discription](preparation.pdf "some discription")
 
 ### Before you start
 
