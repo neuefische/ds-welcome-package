@@ -1,6 +1,8 @@
 # ds-welcome-package
 In order to have a common starting point it is important that you know both some basic statistics and some fundamentals about python programming. In this repository we will cover the general concepts that you should be familiar with before the start of the bootcamp. You do not need to install anything on your computer in order to work with the metarial, all material is browser based and we will be using [Google Colaboratory](https://colab.research.google.com/).
 
+<object data="./preparation.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 ### Before you start
 
 If you are not familiar with Google Colab, please start with [Intro to Colab notebook](Intro_to_Colab.ipynb) which shows you how to work with Colab.
