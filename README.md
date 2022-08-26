@@ -1,8 +1,7 @@
 # ds-welcome-package
 In order to have a common starting point it is important that you know both some basic statistics and some fundamentals about python programming. In this repository we will cover the general concepts that you should be familiar with before the start of the bootcamp. You do not need to install anything on your computer in order to work with the metarial, all material is browser based and we will be using [Google Colaboratory](https://colab.research.google.com/).
 
-<embed src="[http://example.com/the.pdf](https://github.com/neuefische/ds-welcome-package/blob/add-pdf/preparation.pdf)" width="500" height="375" 
- type="application/pdf">
+
  
 ![some discription](https://github.com/neuefische/ds-welcome-package/blob/add-pdf/preparation.pdf)
 
