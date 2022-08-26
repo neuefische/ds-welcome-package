@@ -5,6 +5,8 @@ In order to have a common starting point it is important that you know both some
 ![Check out the Fundamentals](https://github.com/neuefische/ds-welcome-package/blob/0f2a73568f5f588c2104c6675fda29c0058d0d50/preparation.pdf)
 
 <embed src="https://github.com/neuefische/ds-welcome-package/blob/0f2a73568f5f588c2104c6675fda29c0058d0d50/preparation.pdf" type="application/pdf">
+ 
+![some discription](https://github.com/neuefische/ds-welcome-package/blob/add-pdf/preparation.pdf)
 
 ### Before you start
 
